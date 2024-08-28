@@ -1,3 +1,14 @@
+########################################################################################################
+# Projet : Content Folder                                                                              #
+# Auteur : Soradev                                                                                     #
+# Version : 1.0.0                                                                                      #
+########################################################################################################
+# Description :                                                                                        #
+#   Generates the file tree of a selected folder                                                       #
+########################################################################################################
+# For any questions or contributions, please contact the author at sora.dev.pro@gmail.com              #
+########################################################################################################
+
 import os
 import tkinter as tk
 from tkinter import filedialog, scrolledtext, messagebox
