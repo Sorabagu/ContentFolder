@@ -1,6 +1,12 @@
 <h1>ContentFolder</h1>
+<h3>
+  <img src="https://cdn.icon-icons.com/icons2/3665/PNG/512/france_flag_icon_228673.png" alt="Francais" width="20" height="20"> <a href="#french"> Français</a><br>
+  <img src="https://cdn.icon-icons.com/icons2/3665/PNG/512/gb_flag_great_britain_england_union_jack_english_icon_228674.png" alt="English" width="20" height="20"> <a href="#english"> English</a><br><br>
+  <img src="https://cdn.icon-icons.com/icons2/74/PNG/256/winrar_14662.png" alt="Download Icon" width="20" height="20" style="vertical-align:middle;"> 
+  Download : <a href="https://github.com/SoraBagu/ContentFolder/releases">https://github.com/SoraBagu/ContentFolder/releases</a>
+</h3>
 
-<h2>Français</h2>
+<h2 id="french">Français</h2>
 <ul>
     <li><h3>Description</h3>
         <p>ContentFolder est une application graphique développée en Python qui permet de générer une arborescence du contenu d'un dossier sélectionné.</p>
@@ -37,7 +43,7 @@ pyinstaller --onefile contentfolder.pyw</code></pre>
     </li>
 </ul>
 
-<h2>English</h2>
+<h2 id="english">English</h2>
 <ul>
     <li><h3>Description</h3>
         <p>ContentFolder is a Python GUI application that generates a tree structure of the contents of a selected folder.</p>
