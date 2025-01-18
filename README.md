@@ -29,7 +29,7 @@ pip install wxPython
    ```
 4. Use the **Browse** button to select a folder.
 5. The directory tree will appear in the text area.
-6. Click **Export** to copy the tree structure to your clipboard.
+6. Click **Copy** to copy the tree structure to your clipboard.
 
 ## Application Interface
 
@@ -46,6 +46,9 @@ pip install wxPython
 └── README.md        # Documentation
 ```
 
+## Screenshots
+
+![ContentFolder UI](https://github.com/Sorabagu/contentfolder/blob/main/screenshot.png?raw=true))  
 
 ## Customization
 
