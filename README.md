@@ -1,4 +1,5 @@
 # ContentFolder
+![ContentFolder](https://img.shields.io/badge/version-1.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
 **ContentFolder** is a Python application built with wxPython that allows users to explore directory structures and copy the directory tree to their clipboard. This application features a modern dark theme and provides an intuitive interface for managing file structures.
 
